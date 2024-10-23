@@ -1,7 +1,7 @@
 <?php 
   $host = 'localhost';
   $user = 'root';
-  $passwd = 'laranja';
+  $passwd = 'xxx';
   $bd_name = 'Gerenciador_estoque';
 
   // Conexao com o banco de dados
